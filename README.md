@@ -1,4 +1,5 @@
 # reARrity-demo
 Testing htlm5 based AR with different markers
 
-![Screenshot](rearityMerkki.png)  ![Screenshot](fivrMerkki.png)
+![Screenshot](rearityMerkki.png)
+![Screenshot](fivrMerkki.png)
